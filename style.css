@@ -20,10 +20,6 @@ h2 {
     text-transform: uppercase;
 }
 
-h4 {
-    color: #ff4040;
-}
-
 .start {
     display: flex;
     align-items: center;
