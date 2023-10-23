@@ -19,7 +19,7 @@ fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Ctether%2Cethe
                 <span>/USD</span>
             </div>
             <div class="coin-price">
-                <span class="price">${price}</span>
+                <span class="price">$${price}</span>
                 <span class="change">${change}</span>
             </div>
         </div>
